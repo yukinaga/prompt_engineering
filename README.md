@@ -22,7 +22,7 @@ AIに適格な指示を出すための、練習を重ねていきましょう。
 **Section4. プロンプトエンジニアリングの未来**  
 → プロンプトエンジニアリングの未来について、様々な事例と共に解説します。  
   
-connpass: [プロンプトエンジニアリングを学ぼう！](https://liveai.connpass.com/event/288879/)  
+Udemyコース: [プロンプトエンジニアリングを学ぼう！](https://www.udemy.com/course/prompt-llm/?referralCode=02382C4D99F17843A9DD)  
   
 ### 自由研究室 AIRS-Lab（コミュニティ）
 「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
